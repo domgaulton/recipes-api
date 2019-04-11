@@ -5,12 +5,12 @@
   		"butter", 
       "eggs", 
       "salt", 
-      "pepper", 
+      "pepper"
     ],
   "instructions" : 
     [ 
       "Heat the pan", 
       "Beat the eggs", 
-      "Add eggs and whisk", 
-    ],
+      "Add eggs and whisk"
+    ]
 }

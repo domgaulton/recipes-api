@@ -1,7 +1,7 @@
 # Recipe API
 
 ## Planning
-* planning.md
+* [Plan](./planning.md)
 
-## Current API
-* 
+## Example API Object
+* [API](https://raw.githubusercontent.com/domgaulton/recipes-api/master/recipe.json)
