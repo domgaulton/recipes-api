@@ -1,16 +1,27 @@
-{
-  "name": "recipe name",
-  "ingredients" : 
-  	[ 
-  		"butter", 
-      "eggs", 
-      "salt", 
-      "pepper"
+[
+  {
+    "name": "Omlette",
+    "ingredients" : [ 
+      "Butter",
+      "Eggs",
+      "Salt",
+      "Pepper"
     ],
-  "instructions" : 
-    [ 
-      "Heat the pan", 
-      "Beat the eggs", 
+    "instructions" : [ 
+      "Heat the pan",
+      "Beat the eggs",
       "Add eggs and whisk"
     ]
-}
+  },
+  {
+    "name": "Beans on Toast",
+    "ingredients" : [ 
+      "Tinned beans",
+      "Bread"
+    ],
+    "instructions" : [ 
+      "Toast the bread",
+      "Heat the beans"
+    ]
+  }
+]
